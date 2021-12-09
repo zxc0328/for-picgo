@@ -4,10 +4,10 @@
     "published_at": "2021-09-02T10:00:00Z",
     "assets": [
       {
-        "name": "1.15.3.uf2",
+        "name": "firmware-v1.15.1.uf2",
         "label": null,
         "size": 660480,
-        "browser_download_url": "https://github.com/zxc0328/for-picgo/raw/master/1.15.3.uf2"
+        "browser_download_url": "https://github.com/zxc0328/for-picgo/raw/master/firmware-v1.15.1.uf2"
       }
     ]
   }
